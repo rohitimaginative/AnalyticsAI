@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "analyticsai": {
+      "command": "mvn",
+      "args": ["-q", "spring-boot:run"]
+    }
+  }
+}

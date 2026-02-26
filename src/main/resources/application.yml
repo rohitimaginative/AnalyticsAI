@@ -1,0 +1,10 @@
+spring:
+  main:
+    banner-mode: off
+  ai:
+    mcp:
+      server:
+        name: analyticsai
+        version: 1.0.0
+        instructions: MCP server for AnalyticsAI sample tools and resources
+        stdio: true
